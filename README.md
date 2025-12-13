@@ -28,30 +28,26 @@ I created this repository to:
 This repo is intentionally *beginner-friendly* and improves as my skills improve.
 
 ---
+## 📂 Repository Structure
 
-## Repository Structure
+- 📁 *functions/*
+  - 🔢 [calculator.sh](functions/calculator.sh) — Simple calculator using functions
 
-```text
-bash-projects/
-│
-├── basics/
-│   ├── variables.sh
-│   ├── arrays.sh
-│   ├── string_ops.sh
-│   ├── logical_ops.sh
-│
-├── control-flow/
-│   ├── if_else.sh
-│   ├── case.sh
-│   ├── for_loop.sh
-│   ├── while_loop.sh
-│   └── until_loop.sh
-│
-├── functions/
-│   ├── calculator.sh
-│
-├── file-handling/
-│   ├── read_file.sh
-│   ├── csv_reader.sh
-│
-└── README.md
+- 📁 *loops/*
+  - 🔁 [for_loop.sh](loops/for_loop.sh)
+  - 🔄 [while_loop.sh](loops/while_loop.sh)
+
+- 📁 *conditions/*
+  - 🔀 [if_else.sh](conditions/if_else.sh)
+  - 🧩 [case_statement.sh](conditions/case_statement.sh)
+
+## 🎯 Purpose
+- Learn Bash scripting step by step  
+- Practice Linux commands  
+- Build basics required for *SOC Analyst / Security Engineer*
+
+## 🚀 Status
+Learning in progress 👨‍🎓  
+More scripts will be added regularly.
+
+---
