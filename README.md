@@ -30,16 +30,9 @@ This repo is intentionally *beginner-friendly* and improves as my skills improve
 ---
 ## 📂 Repository Structure
 
-- 📁 *functions/*
-  - 🔢 [calculator.sh](functions/calculator.sh) — Simple calculator using functions
-
-- 📁 *loops/*
-  - 🔁 [for_loop.sh](loops/for_loop.sh)
-  - 🔄 [while_loop.sh](loops/while_loop.sh)
-
-- 📁 *conditions/*
-  - 🔀 [if_else.sh](conditions/if_else.sh)
-  - 🧩 [case_statement.sh](conditions/case_statement.sh)
+- 📁 using bash small projects 
+  - 🔢 [calculator.sh](project/calculator.sh) — Simple calculator using functions
+  - ✅ [connectivity_check.sh](project/connectivity_check.sh) - check website connection 
 
 ## 🎯 Purpose
 - Learn Bash scripting step by step  
