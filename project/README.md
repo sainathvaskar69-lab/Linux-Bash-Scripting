@@ -1,15 +1,36 @@
-# Bash Functions
+# Small Bash Projects 🐧
 
-This folder contains *basic Bash function examples* for beginners.
+This repository contains *beginner-level Bash scripting projects* created for learning Linux and scripting fundamentals.
 
-Functions help to *reuse code* and keep scripts *simple and clean*.
+---
 
-## Topics Covered
-- Function syntax
-- Calling functions
-- Using arguments ($1, $2)
-- Simple calculator using functions
+## 📌 Projects
 
-## How to Run bash
+### 🧮 Calculator (Bash)
+- Simple calculator using Bash
+- Supports add, subtract, multiply, divide
+- Uses functions and conditional statements
+- Takes user input
+
+### 🌐 Website Connectivity Checker
+- Checks if a website is reachable
+- Uses basic networking commands
+- Helpful for understanding connectivity and scripting logic
+
+---
+
+## 🛠 Concepts Used
+- Bash functions
+- Arguments
+- if / else
+- Loops (basic)
+- Linux commands
+- User input
+
+---
+
+## ▶ How to Run
+
+```bash
 chmod +x script.sh
 ./script.sh
