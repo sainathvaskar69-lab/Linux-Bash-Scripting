@@ -31,8 +31,8 @@ This repo is intentionally *beginner-friendly* and improves as my skills improve
 ## 📂 Repository Structure
 
 - 📁 using bash small projects 
-  - 🔢 [calculator.sh](beginner projrct/calculator.sh) — Simple calculator using functions
-  - ✅ [connectivity_check.sh](beginner project/connectivity_check.sh) - check website connection 
+  - 🔢 [calculator.sh](projrct/calculator.sh) — Simple calculator using functions
+  - ✅ [connectivity_check.sh](project/connectivity_check.sh) - check website connection 
 
 ## 🎯 Purpose
 - Learn Bash scripting step by step  
