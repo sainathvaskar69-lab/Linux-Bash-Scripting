@@ -2,7 +2,7 @@
 
 Hi   
 I am a Computer Science student currently learning *Bash scripting* from scratch.
-This repository contains my *Bash practice scripts, small projects, and future improvements* as I grow in cybersecurity and scripting.
+This repository contains my *Bash projects, and future improvements* 
 
 ---
 
@@ -10,9 +10,6 @@ This repository contains my *Bash practice scripts, small projects, and future i
 
 -  Bachelor of Computer Science (2nd Year)
 -  Interested in *Cybersecurity*
--  Goal: Become a *Security Engineer / SOC Analyst*
--  Currently learning *Linux & Bash scripting*
-
 ---
 
 ## Why This Repository?
@@ -23,21 +20,19 @@ I created this repository to:
 - Practice *Linux command-line automation*
 - Build *small real-world scripts*
 - Track my *progress over time*
-- Prepare for *SOC / Security Engineer roles*
 
 This repo is intentionally *beginner-friendly* and improves as my skills improve.
 
 ---
 ## 📂 Repository Structure
 
-- 📁 using bash small projects 
+- 📁 bash projects 
   - 🔢 [calculator.sh](project/calculator.sh) — Simple calculator using functions
   - ✅ [connectivity_check.sh](project/connectivity_check.sh) - check website connection 
 
 ## 🎯 Purpose
 - Learn Bash scripting step by step  
 - Practice Linux commands  
-- Build basics required for *SOC Analyst / Security Engineer*
 
 ## 🚀 Status
 Learning in progress 👨‍🎓  
