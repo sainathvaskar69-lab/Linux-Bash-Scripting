@@ -28,8 +28,11 @@ This repo is intentionally *beginner-friendly* and improves as my skills improve
 
 - 📁 bash projects 
   - 🔢 [calculator.sh](project/calculator.sh) — Simple calculator using functions
-  - ✅ [connectivity_check.sh](project/connectivity_check.sh) - check website connection 
-
+  - ✅ [connectivity_check.sh](project/connectivity_check.sh) - check website connection
+  - 📁 [FS_status.sh](project/FS_status.sh) - Monitoring disk usage and filesystem health
+  - 🖥️ [RAM_Monitoring.sh](project/RAM_Monitoring.sh) - Check Current memory usage on the system
+  - 🗃️ [archive_project.sh](project/archive_project.sh) - Automates archiving of files and directories
+  ---
 ## 🎯 Purpose
 - Learn Bash scripting step by step  
 - Practice Linux commands  
